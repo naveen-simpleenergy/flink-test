@@ -2,7 +2,8 @@ myenv/
 *.jar
 *.so
 __pycache__/
-# myenv/lib/python3.11/site-packages/pyflink/lib/flink-dist-1.20.0.jar
-./.git/objects/pack/pack-50c0292e64f13d4ba7a370a617b1187f76192484.pack
-./myenv/lib/python3.11/site-packages/pyflink/lib/flink-dist-1.20.0.jar
-./myenv/lib/python3.11/site-packages/pyarrow/libarrow.so.1100
+./src/MANIFEST.py
+./cluster_deploy.py
+./setup.py
+
+
