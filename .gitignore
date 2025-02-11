@@ -2,8 +2,8 @@ myenv/
 *.jar
 *.so
 __pycache__/
-./src/MANIFEST.py
-./cluster_deploy.py
-./setup.py
+./MANIFEST.py
+cluster_deploy.py
+setup.py
 
 
