@@ -1,9 +1,15 @@
+# Ignore virtual environments
 myenv/
-*.jar
-*.so
+
+# Ignore compiled Python files
+*.pyc
 __pycache__/
-./MANIFEST.py
+
+# Ignore binary files
+*.so
+*.jar
+
+# Ignore specific files
+MANIFEST.py
 cluster_deploy.py
 setup.py
-
-
